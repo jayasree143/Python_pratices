@@ -16,6 +16,9 @@ num2 = 34
 print(f"The first number is {num1} and The another number is {num2} the addition of two number is {num1+num2}")
 num3 = 51
 print(f"The number {num3} is even {True if num3 % 2 == 0 else False }")
+number = 34.134566
+formatting_number = f"{number:.5f}"
+print(formatting_number)
 # formatting with string template class
 # definition :  In simpler terms python string template class allows us to create
 # variable stings that can be updated with a value as per need.

@@ -1,0 +1,10 @@
+# Create a program , take 2 inputs from the user num1, num2 and give them
+num1 = int(input("Enter the first number:\n"))
+num2 = int(input("Enter the second number:\n"))
+print(f"The addition of two numbers: {num1 + num2}")
+print(f"The subtraction of two numbers: {num1 - num2}")
+print(f"The multiplication of two numbers: {num1 * num2}")
+print(f"The division of two numbers: {num1 / num2}")
+print(f"The maximum of two numbers: {max(num1,num2)}")
+print(f"The minimum  of two numbers: {min(num1,num2)}")
+print(f"The powder of two numbers: {pow(num1,num2)}")

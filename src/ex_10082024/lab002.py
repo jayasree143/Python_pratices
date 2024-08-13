@@ -1,3 +1,3 @@
-name = 'Jaya'
-age = 43
-print(name)
+x = 2
+x = x+2
+print(x)
