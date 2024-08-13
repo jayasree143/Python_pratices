@@ -1,5 +1,5 @@
 # print the table from user inputs
-numbers = int(input("Enter the number for table: \n"))
+numbers = int(input("Enter the number for tables: \n"))
 print(f"{numbers} * 1 = {numbers}")
 print(f"{numbers} * 2 = {numbers*2}")
 print(f"{numbers} * 3 = {numbers*3}")
