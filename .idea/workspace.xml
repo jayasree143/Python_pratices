@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9846496-256c-4077-b2c0-80bfccbf4187" name="Changes" comment="update the all the modules">
-      <change afterPath="$PROJECT_DIR$/src/Task/Task3_18082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task4_18082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task5_18082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task6_18082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19082024/lab0005.py" afterDir="false" />
+    <list default="true" id="b9846496-256c-4077-b2c0-80bfccbf4187" name="Changes" comment="update the task and files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_12082024/lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12082024/lab003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task6_18082024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task6_18082024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +37,7 @@
     "Python.Task2_13082024.executor": "Run",
     "Python.Task3_18082024.executor": "Run",
     "Python.Task5_18082024.executor": "Run",
+    "Python.Task6_18082024.executor": "Run",
     "Python.Task_13082024.executor": "Run",
     "Python.Task_18082024.executor": "Run",
     "Python.datatypes.executor": "Run",
@@ -113,13 +108,22 @@
       <option name="project" value="LOCAL" />
       <updated>1723529069021</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update the task and files">
+      <option name="closed" value="true" />
+      <created>1724097383869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724097383869</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="formatting string module" />
     <MESSAGE value="update the all the modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="update the all the modules" />
+    <MESSAGE value="update the task and files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the task and files" />
   </component>
 </project>
