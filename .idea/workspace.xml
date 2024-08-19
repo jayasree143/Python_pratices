@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9846496-256c-4077-b2c0-80bfccbf4187" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/Python Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b9846496-256c-4077-b2c0-80bfccbf4187" name="Changes" comment="update the all the modules">
+      <change afterPath="$PROJECT_DIR$/src/Task/Task3_18082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task4_18082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task5_18082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task6_18082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19082024/lab0005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_12082024/lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12082024/lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/lab004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kMBz1bqh8qnlLBj2SDhuse9zIc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,10 +40,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Task2_13082024.executor": "Run",
+    "Python.Task3_18082024.executor": "Run",
+    "Python.Task5_18082024.executor": "Run",
+    "Python.Task_13082024.executor": "Run",
+    "Python.Task_18082024.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.lab0005.executor": "Run",
     "Python.lab001.executor": "Run",
+    "Python.lab002.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -68,11 +81,45 @@
       <option name="project" value="LOCAL" />
       <updated>1723084949103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1723085512001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723085512001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1723443411551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723443411551</updated>
+    </task>
+    <task id="LOCAL-00004" summary="formatting string module">
+      <option name="closed" value="true" />
+      <created>1723448334515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723448334515</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update the all the modules">
+      <option name="closed" value="true" />
+      <created>1723529069021</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723529069021</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="formatting string module" />
+    <MESSAGE value="update the all the modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the all the modules" />
   </component>
 </project>

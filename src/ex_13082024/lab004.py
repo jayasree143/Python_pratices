@@ -9,4 +9,3 @@ name = input("enter the name:\n")
 print('Hi! ',name)
 print(type(name))
 name = int(input(" enter the num1: \n"))
-3.14
