@@ -77,4 +77,9 @@ print(formatted_string_2)
 # is set to the template string itself as the default value and prints out the
 # output, whereas in the case of the substitute () method, it raises a keyError.
 
-print()
+name = "Alice"
+age = 30
+json_data = f'{{ "name": "{name}", "age": {age} }}'
+print(json_data)
+# Output:
+# { "name": "Alice", "age": 30 }
